@@ -60,7 +60,7 @@ This project is released for educational and portfolio purposes
 
 The detailed report explaining the design choices, coding approach, and theory behind this lexical analyzer is available here:
 
-➡️ [Read the full technical report](./docs/mini_compiler_report.pdf)
+➡️ [Read the full technical report](./docs/Rapport.pdf)
 
 ---
 
