@@ -56,7 +56,15 @@ This project is released for educational and portfolio purposes
 
 ---
 
-## 📥 Usage
+## 📚 Documentation
+
+The detailed report explaining the design choices, coding approach, and theory behind this lexical analyzer is available here:
+
+➡️ [Read the full technical report](./docs/mini_compiler_report.pdf)
+
+---
+
+## 📥 How to run 
 
 1. Run the `lexical_analyzer.py` script.
 2. Enter any expression when prompted.
